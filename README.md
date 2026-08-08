@@ -1,6 +1,6 @@
 <div align="center">
 
-Olá, eu sou o Pedro! 👋
+Pedro N. Braga
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack;Python+%7C+JavaScript+%7C+TypeScript;IA+e+Vis%C3%A3o+Computacional;Tecnologia+com+impacto+positivo" alt="Typing SVG">
@@ -12,7 +12,6 @@ Olá, eu sou o Pedro! 👋
 
 </div>
 
-👨‍💻 Sobre mim
 
 Olá! Sou o Pedro, desenvolvedor de software interessado em transformar ideias em soluções funcionais, acessíveis e capazes de resolver problemas reais.
 
