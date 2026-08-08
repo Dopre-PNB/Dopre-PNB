@@ -19,11 +19,11 @@ Atuo na criação de aplicações web e full stack, trabalhando com interfaces r
 
 Gosto de participar de todas as etapas de um projeto: planejamento, desenvolvimento, integração, testes e publicação. Estou sempre buscando aprender novas tecnologias, melhorar a qualidade do meu código e desenvolver produtos que gerem impacto positivo.
 
-🛠️ Tecnologias que utilizo
+  Tecnologias que utilizo
 
 <div align="center">
 
-Linguagens
+  Linguagens
 
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css&perline=10" alt="Linguagens">
 
@@ -31,13 +31,13 @@ Frameworks e bibliotecas
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind&perline=10" alt="Frameworks e bibliotecas">
 
-Bancos de dados e ferramentas
+  Bancos de dados e ferramentas
 
 <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode,postman&perline=10" alt="Bancos de dados e ferramentas">
 
 </div>
 
-🚀 Projetos em destaque
+  Projetos em destaque
 
 🐕 Lola — Gestor Pessoal com IA
 
@@ -69,8 +69,8 @@ Python Visão computacional Detecção facial
 
 Estou aberto a trocar ideias, colaborar em projetos e conhecer novas oportunidades.
 
-<a href="https://github.com/PedroBraga01">
-  <img src="https://img.shields.io/badge/GitHub-PedroBraga01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://github.com/PedroBraga01](https://www.linkedin.com/feed/">
+  <img src="https://img.shields.io/badge/GitHub-PedroBraga01-181717?style=for-the-badge&logo=github&logoColor=white" alt="LinkedIN">
 </a>
 
 </div>
