@@ -1,8 +1,8 @@
-Atualizei mantendo emojis apenas nos títulos dos projetos. O Discord foi exibido pelo nome de usuário, pois um link direto exige o ID numérico da conta.
+Atualizei todos os links e o botão do GitHub para `Dopre-PNB`.
 
 <div align="center">
 
-# Pedro do Nascimento Braga
+# Olá, eu sou o Pedro!
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack;Python+%7C+JavaScript+%7C+TypeScript;IA+e+Vis%C3%A3o+Computacional;Tecnologia+com+impacto+positivo" alt="Apresentação profissional">
@@ -48,25 +48,25 @@ Gosto de participar de todas as etapas de um projeto: planejamento, desenvolvime
 
 ## Projetos em destaque
 
-### [🐕 Lola — Gestor Pessoal com IA](https://github.com/PedroBraga01/Lola)
+### [🐕 Lola — Gestor Pessoal com IA](https://github.com/Dopre-PNB/Lola)
 
 Aplicação web PWA para organização de tarefas e compromissos por meio de um chat inteligente. Possui integração com **Google Gemini**, **Google Calendar** e **Google Tasks**.
 
 `React` `Vite` `Node.js` `Express` `Gemini API`
 
-### [♿ APTA Inclusão](https://github.com/PedroBraga01/apta-inclusao)
+### [♿ APTA Inclusão](https://github.com/Dopre-PNB/apta-inclusao)
 
 Plataforma acessível que conecta profissionais com deficiência visual a empresas comprometidas com inclusão. Conta com jornadas para candidatos, empresas e administradores.
 
 `Next.js` `React` `TypeScript` `PostgreSQL` `Tailwind CSS`
 
-### [🚚 UrbanLink Flow](https://github.com/PedroBraga01/urbanlink-flow)
+### [🚚 UrbanLink Flow](https://github.com/Dopre-PNB/urbanlink-flow)
 
 Plataforma acadêmica para gestão e simulação de logística urbana, com controle de veículos e entregas, planejamento de rotas, mapas e indicadores.
 
 `JavaScript` `Node.js` `Express` `PostgreSQL` `Leaflet`
 
-### [🚗 Celular no Volante](https://github.com/PedroBraga01/Celular-no-volante)
+### [🚗 Celular no Volante](https://github.com/Dopre-PNB/Celular-no-volante)
 
 Aplicação de visão computacional desenvolvida para identificar movimentos que podem indicar distração ao dirigir, como quando uma pessoa olha para baixo.
 
@@ -83,7 +83,7 @@ Estou aberto a trocar ideias, colaborar em projetos e conhecer novas oportunidad
 <br><br>
 
 <a href="https://github.com/Dopre-PNB">
-  <img src="https://img.shields.io/badge/GitHub-Dopre-PNB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Dopre--PNB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/pedro-n-braga/">
