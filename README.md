@@ -1,11 +1,11 @@
-Seguindo a estrutura do [perfil de referência](https://github.com/devmatheus32/devmatheus32) e adaptando às tecnologias e aos projetos do seu [GitHub](https://github.com/PedroBraga01):
+Atualizei mantendo emojis apenas nos títulos dos projetos. O Discord foi exibido pelo nome de usuário, pois um link direto exige o ID numérico da conta.
 
 <div align="center">
 
-# Pedro N. Braga
+# Pedro do Nascimento Braga
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack;Python+%7C+JavaScript+%7C+TypeScript;IA+e+Vis%C3%A3o+Computacional;Tecnologia+com+impacto+positivo" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack;Python+%7C+JavaScript+%7C+TypeScript;IA+e+Vis%C3%A3o+Computacional;Tecnologia+com+impacto+positivo" alt="Apresentação profissional">
 </a>
 
 <br>
@@ -16,7 +16,7 @@ Seguindo a estrutura do [perfil de referência](https://github.com/devmatheus32/
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Olá! Sou o **Pedro**, desenvolvedor de software interessado em transformar ideias em soluções funcionais, acessíveis e capazes de resolver problemas reais.
 
@@ -26,7 +26,7 @@ Gosto de participar de todas as etapas de um projeto: planejamento, desenvolvime
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## Tecnologias que utilizo
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Gosto de participar de todas as etapas de um projeto: planejamento, desenvolvime
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### [🐕 Lola — Gestor Pessoal com IA](https://github.com/PedroBraga01/Lola)
 
@@ -74,14 +74,22 @@ Aplicação de visão computacional desenvolvida para identificar movimentos que
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
 Estou aberto a trocar ideias, colaborar em projetos e conhecer novas oportunidades.
 
+<br><br>
+
 <a href="https://github.com/PedroBraga01">
   <img src="https://img.shields.io/badge/GitHub-PedroBraga01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+
+<a href="https://www.linkedin.com/in/pedro-n-braga/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Braga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<img src="https://img.shields.io/badge/Discord-Dopre.nGapra-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Dopre.nGapra">
 
 </div>
