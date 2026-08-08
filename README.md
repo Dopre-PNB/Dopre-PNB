@@ -82,8 +82,8 @@ Estou aberto a trocar ideias, colaborar em projetos e conhecer novas oportunidad
 
 <br><br>
 
-<a href="https://github.com/PedroBraga01">
-  <img src="https://img.shields.io/badge/GitHub-PedroBraga01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://github.com/Dopre-PNB">
+  <img src="https://img.shields.io/badge/GitHub-Dopre-PNB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/pedro-n-braga/">
